@@ -5,12 +5,12 @@ I'm a software developer with a passion for creating efficient and scalable solu
 
 ## 🛠️ Skills
 - **Languages**: Python, C, Node.js, Java
-- **Tools & Frameworks**: Django, Flask, Express.js, Git, Docker, VS Code, SDL2 etc.
+- **Tools & Frameworks**: Django, Flask, Express.js, Git, Docker, VS Code, SDL2, WordPress, etc.
 
 ## 💼 Projects
 ### Malcolm's Anatomy
 - **Description**: Malcolm's Anatomy is a startup that I founded, where we focus on delivering innovative health education, community engagement, and technology services tailored for health and medical institutions. As the CEO and Tech Lead, I oversee all technical aspects of the company, from product development to deployment, ensuring that our solutions are efficient, scalable, and user-friendly.
-- **Technologies**: Python, Django, Docker, PostgreSQL
+- **Technologies**: WordPress, Elementor, Yoast SEO, WooCommerce, JetPack etc.
 - **Key Features**: 
   - Health education platforms
   - Community engagement tools

@@ -26,7 +26,7 @@ I'm a software developer with a passion for creating efficient and scalable solu
 
 
 ## 👨‍💻 Experience
-- **Founder, CEO, and Tech Lead** at **Malcolm's Anatomy** | [2020-Present]
+- **Founder, CEO, and Tech Lead** at **Malcolm's Anatomy** | 2020-Present
   - Led the development of health education platforms and community engagement tools.
   - Managed a team of developers and collaborated with health institutions to tailor solutions to their needs.
   - Oversaw the technical strategy and implementation of scalable systems.
@@ -43,8 +43,8 @@ I'm a software developer with a passion for creating efficient and scalable solu
   - Used JPMorgan Chase’s open-source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor.
 
 ## 🎓 Education
-- **Degree** in Software Engineering, African Leadership X | [22-Present]
-- **Degree** in Human Anatomy, University of Benin | [2016-2020]
+- **Professional Certificate** in Software Engineering, African Leadership X | 22-Present
+- **BSc** in Human Anatomy, University of Benin | 2016-2020
 
 ## 📫 Contact Me
 - **Email**: [malcolmihere@outlook.com](mailto:your-email@example.com)

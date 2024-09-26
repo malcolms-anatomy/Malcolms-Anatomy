@@ -43,7 +43,7 @@ I'm a software developer with a passion for creating efficient and scalable solu
   - Used JPMorgan Chase’s open-source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor.
 
 ## 🎓 Education
-- **Professional Certificate** in Software Engineering, African Leadership X | 22-Present
+- **Professional Certificate** in Software Engineering, African Leadership X | 2022-2024
 - **BSc** in Human Anatomy, University of Benin | 2016-2020
 
 ## 📫 Contact Me

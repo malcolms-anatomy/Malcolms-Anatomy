@@ -56,7 +56,11 @@ I'm a Medical Software Engineer with a passion for creating efficient and scalab
 - **BSc** in Human Anatomy, University of Benin | 2016-2020
 
 ## 📫 Contact Me
-- **Email**: [malcolmihere@outlook.com](mailto:your-email@example.com)
+- **My Portfolio**: [Malcolm Iheremelam](https://malcolmihere.malcolmsanatomy.com.ng/)
+- **Official Email**: [malcolmihere@outlook.com](mailto:your-email@example.com)
+- **Alternate Email**: [malcolmiheremelam@hotmail.com](mailto:your-email@example.com)
+- **Alternate Email**: [malcolmiheremelam@gmail.com](mailto:your-email@example.com)
+- **WhatsApp**: [WhatsApp](wa.link/xoz26w)
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/malcolm-iheremelam/)
 
 ---

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Malcolm Iheremelam
 
 ## 🚀 About Me
-I'm a software developer with a passion for creating efficient and scalable solutions. I specialize in Python, C, and Java development and have experience working on various projects, from web applications to systems programming. In addition to my technical expertise, I am the founder, CEO, and Tech Lead at Malcolm's Anatomy, a startup focused on delivering innovative health education, community engagement, and tech services to health and medical institutions in Nigeria.
+I'm a Medical Software Engineer with a passion for creating efficient and scalable healthcare solutions. I specialize in Python, C, and Java development and have experience working on various projects, from web applications to systems programming. In addition to my technical expertise, I am the founder, CEO, and Tech Lead at Malcolm's Anatomy, a startup focused on delivering innovative health education, community engagement, and tech services to health and medical institutions in Nigeria.
 
 ## 🛠️ Skills
 - **Languages**: Python, C, Node.js, Java
@@ -16,7 +16,7 @@ I'm a software developer with a passion for creating efficient and scalable solu
   - Community engagement tools
   - Custom tech services for medical institutions
 
-### Data Munging [Your Repo](https://github.com/malcolms-anatomy/forage-walmart-task-4)
+### Data Munging [Visit Repo](https://github.com/malcolms-anatomy/forage-walmart-task-4)
 - **Description**: This project involves data munging and database insertion using Python.
 - **Technologies**: Python, UML, VS Code etc.
 - **Key Features**: 
@@ -24,6 +24,15 @@ I'm a software developer with a passion for creating efficient and scalable solu
   - Data Merging: Merges the data from multiple CSV files into a single DataFrame.
   - Database Insertion: Inserts the processed data into a SQLite database.
 
+## Ongoing Projects
+
+### AskMedi [Visit Repo](https://github.com/malcolms-anatomy/AskMedi)
+- **Description**: AskMedi is a Python-based project designed to process and store health-related data, making it readily accessible for health insights and symptom checking.
+- **Technologies**: Python, SQLite, UML, VS Code, Pandas etc.
+- **Key Features**: 
+  - Data Reading: Reads data from CSV files containing health and symptom information.
+  - Data Merging: Merges data from multiple CSV files into a unified DataFrame for streamlined analysis and storage.
+  - Database Insertion: Inserts the processed data into a SQLite database, preparing it for easy access and use by the AskMedi chatbot.
 
 ## 👨‍💻 Experience
 - **Founder, CEO, and Tech Lead** at **Malcolm's Anatomy** | 2020-Present

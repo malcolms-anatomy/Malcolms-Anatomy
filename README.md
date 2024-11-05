@@ -1,20 +1,29 @@
 # 👋 Hi, I'm Malcolm Iheremelam
 
 ## 🚀 About Me
-I'm a Medical Software Engineer with a passion for creating efficient and scalable healthcare solutions. I specialize in Python, C, and Java development and have experience working on various projects, from web applications to systems programming. In addition to my technical expertise, I am the founder, CEO, and Tech Lead at Malcolm's Anatomy, a startup focused on delivering innovative health education, community engagement, and tech services to health and medical institutions in Nigeria.
+I am a Medical Software Engineer dedicated to creating efficient and scalable healthcare solutions, particularly in the realm of prosthetic technology. I specialize in Python, C, and Java development and have experience working on diverse projects, ranging from web applications to systems programming. As the Founder, CEO, and Tech Lead at Malcolm's Anatomy, I lead a startup committed to delivering innovative prosthetic solutions, health education, and community engagement to support individuals with limb loss and related needs across Nigeria.
 
 ## 🛠️ Skills
-- **Languages**: Python, C, Node.js, Java
-- **Tools & Frameworks**: Django, Flask, Express.js, Git, Docker, VS Code, SDL2, WordPress, etc.
+- **Languages**: Python, JavaScript (Node.js), C
+- **Frameworks**: Django, Flask, Express.js
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **APIs**: RESTful APIs, GraphQL
+- **Cloud Platforms**: AWS, Azure
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **Testing Frameworks**: Jest, PyTest, Mocha
+- **Version Control**: Git, GitHub, Bitbucket
+- **Development Methodologies**: Agile, Scrum
+- **Soft Skills**: Strong communication, teamwork, and problem-solving abilities
+
 
 ## 💼 Projects
 ### Malcolm's Anatomy
-- **Description**: Malcolm's Anatomy is a startup that I founded, where we focus on delivering innovative health education, community engagement, and technology services tailored for health and medical institutions. As the CEO and Tech Lead, I oversee all technical aspects of the company, from product development to deployment, ensuring that our solutions are efficient, scalable, and user-friendly.
-- **Technologies**: WordPress, Elementor, Yoast SEO, WooCommerce, JetPack etc.
+- **Description**: Malcolm's Anatomy is a startup focused on enhancing mobility and accessibility for individuals with limb loss and related needs. Our team delivers innovative prosthetic solutions, health education, and community engagement initiatives designed for individuals and healthcare institutions. As the CEO and Tech Lead, I guide our dedicated team in overseeing all technical aspects of the company, from product development to deployment, ensuring our solutions are efficient, scalable, and user-friendly.
+- **Technologies**: HTML, CSS, JavaScript, Python, Django, Flask, MySQL, RESTful APIs, Docker, Git, Google Analytics, D3.js, Jest.
 - **Key Features**: 
-  - Health education platforms
-  - Community engagement tools
-  - Custom tech services for medical institutions
+  - **Prosthetic education platforms**: Providing valuable information and resources on prosthetic options and care.
+  - **Community engagement tools**: Facilitating connections and support among individuals with limb loss and their families.
+  - **Custom tech services for healthcare institutions**: Offering tailored solutions to enhance patient care and support for individuals with prosthetic needs.
 
 ### Data Munging [Visit Repo](https://github.com/malcolms-anatomy/forage-walmart-task-4)
 - **Description**: This project involves data munging and database insertion using Python.
@@ -35,10 +44,12 @@ I'm a Medical Software Engineer with a passion for creating efficient and scalab
   - Database Insertion: Inserts the processed data into a SQLite database, preparing it for easy access and use by the AskMedi chatbot.
 
 ## 👨‍💻 Experience
-- **Founder, CEO, and Tech Lead** at **Malcolm's Anatomy** | 2020-Present
-  - Led the development of health education platforms and community engagement tools.
-  - Managed a team of developers and collaborated with health institutions to tailor solutions to their needs.
-  - Oversaw the technical strategy and implementation of scalable systems.
+- **Founder, CEO, and Tech Lead** at **Malcolm's Anatomy** | 2019-Present
+  - Spearheaded the development of innovative health education platforms and community engagement tools aimed at enhancing mobility and accessibility for individuals with limb loss and related needs.
+  - Managed a dedicated team of developers and collaborated closely with healthcare institutions to design and implement tailored solutions that meet their unique challenges.
+  - Oversaw the technical strategy, ensuring the successful implementation of scalable systems that improve user experience and operational efficiency.
+  - Fostered partnerships with medical professionals and organizations to drive awareness and education around prosthetic solutions and health resources.
+  - Analyzed user feedback and performance metrics to continuously refine and enhance product offerings.
  
 - **Walmart USA Advanced Software Engineering Virtual Experience Program** on Forage - August 2024
   - Completed the Advanced Software Engineering Job Simulation where I solved difficult technical projects for a variety of teams at Walmart.
